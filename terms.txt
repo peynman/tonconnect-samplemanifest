@@ -1,0 +1,7 @@
+# TonConnect sample terms
+## Sample 1
+Term paragraph
+
+## Sample 2
+Term paragraph
+

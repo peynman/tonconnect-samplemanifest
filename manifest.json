@@ -1,2 +1,9 @@
-{}
+{
+    "url": "https://underdogcrowdgambling.com",
+    "name": "UnderDog Crowd Gambling",
+    "iconUrl": "https://raw.githubusercontent.com/peynman/tonconnect-samplemanifest/refs/heads/master/icon.png",
+    "termsOfUseUrl": "https://raw.githubusercontent.com/peynman/tonconnect-samplemanifest/refs/heads/master/terms.txt",
+    "privacyPolicyUrl": "https://raw.githubusercontent.com/peynman/tonconnect-samplemanifest/refs/heads/master/pp.txt"
+}
+
 
